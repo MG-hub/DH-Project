@@ -1,1 +1,2 @@
-console.log("Hello World! It's Me!")
+let nome = "Melody"
+console.log("Hello World!\nIt's Me, "+ nome +"!")
